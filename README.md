@@ -47,8 +47,9 @@ Because to me, technology isn't just about building things — it's about creati
 🚀 Turn ideas into scalable digital products
 
 
-![Top language](https://stats.pphat.top/languages?username=ViktorDickson)
-<br/>
+<p align="center">
+  <img src="https://stats.pphat.top/languages?username=ViktorDickson" alt="Top language" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
